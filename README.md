@@ -1,2 +1,2 @@
-# Loading Screen
+# Simple Loading Screen CSS
  
